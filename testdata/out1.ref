@@ -5,3 +5,10 @@ This is a command line tool for concatenating files.  It is like Unix/Linux cat 
 
 License: MIT
 
+go-cat - simple cat-like tool with output parameter
+===================================================
+
+This is a command line tool for concatenating files.  It is like Unix/Linux cat but has a `-o` parameter so that you can concatenate files without using pipes.
+
+License: MIT
+
