@@ -2,7 +2,7 @@
 *.o
 *.a
 *.so
-./go-cat
+go-cat
 
 # Folders
 _obj
