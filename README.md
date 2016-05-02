@@ -5,3 +5,7 @@ This is a command line tool for concatenating files.  It is like Unix/Linux cat 
 
 License: MIT
 
+Run test by 
+
+	$ make test
+
