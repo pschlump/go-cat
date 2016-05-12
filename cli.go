@@ -21,3 +21,5 @@ func main() {
 	catlib.CatFiles(cfg, *Output, fns...)
 
 }
+
+/* vim: set noai ts=4 sw=4: */
